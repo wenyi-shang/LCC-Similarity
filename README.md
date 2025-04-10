@@ -1,2 +1,2 @@
 # LCC-Similarity
-Data and Code for Library of Congress Classification (LCC) Similarity project.
+Data and Code for the "Does Library of Congress Classification Suggest Word Usage Patterns?" project.
