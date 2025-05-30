@@ -1,2 +1,2 @@
 # LCC-Similarity
-Data and Code for the "Does Library of Congress Classification Suggest Word Usage Patterns?" project.
+Data and Code for the "Does the Semantic Meaning of Class Names Matter? A Computational Analysis of LCC and Word Usage" project.
